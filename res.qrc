@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>bg.mp3</file>
+        <file>bullet.mp3</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>cowboy.png</file>
+        <file>Dame.png</file>
+        <file>joe-dalton(2).png</file>
+        <file>horse.png</file>
+        <file>laser_bullet.png</file>
+        <file>cowboyHorse.png</file>
+        <file>stone-wall-texture.jpg</file>
+        <file>jail.png</file>
+        <file>background.png</file>
+        <file>HealthPos.png</file>
+        <file>snake.png</file>
+        <file>cowboyHorseWomen.png</file>
+        <file>sherifHouse.png</file>
+    </qresource>
+</RCC>

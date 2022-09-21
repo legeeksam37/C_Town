@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>bgmusic.mp3</file>
+        <file>bullet.mp3</file>
+        <file>epic-wild-western-music-billy-the-kid.mp3</file>
+    </qresource>
+</RCC>
